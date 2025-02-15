@@ -51,7 +51,7 @@ export function SidebarHeader() {
               <Menu.Content defaultSelectedKeys={[2]}>
                 <Menu.Item id={1}>Members</Menu.Item>
                 <Menu.Item id={2}>Exclude Files</Menu.Item>
-                <Menu.Item id={3}>Scratchs and Consoles</Menu.Item>
+                <Menu.Item id={3}>Scratches and Consoles</Menu.Item>
                 <Menu.Item id={4}>Files Details</Menu.Item>
                 <Menu.Separator />
                 <Menu.Item id={5}>File Nesting</Menu.Item>
